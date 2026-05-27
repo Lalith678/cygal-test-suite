@@ -1,0 +1,7 @@
+[TC_CYGAL_ROLES_AND_ACCOUNTS_MANAGEMENT_0025 - cygal_config_file]
+*Given*
+Cygal load with cyber configuration file
+*When*
+Cygal is in Operational mode
+*Then*
+A web-session policy configuration file is present on the cygal.
