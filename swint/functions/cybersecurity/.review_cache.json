@@ -1,0 +1,10 @@
+{
+  "version_source": "1.0",
+  "history_collected": false,
+  "test_cases": {
+    "TC_CYGAL_ROLES_AND_ACCOUNTS_MANAGEMENT_0025": [
+      "CRITICAL: Never leave active debugging breakpoints like 'import pdb; pdb.set_trace()' in committed code.",
+      "WARNING: Remember to call 'self.conf_push_and_reset()' immediately after executing edit_xml_element to avoid test state pollution."
+    ]
+  }
+}
